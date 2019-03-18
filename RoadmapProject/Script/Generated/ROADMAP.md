@@ -39,7 +39,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
         - [x] [`Multithreading and concurrency`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/RESOURCES.md)
             - [x] [POSIX and NSThreads](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/POSIX_and_NSThreads/RESOURCES.md)
-            - [ ] [Perform selector family](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Perform_selector_family/RESOURCES.md)
+            - [x] [Perform selector family](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Perform_selector_family/RESOURCES.md)
             - [ ] [`GCD`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/GCD/RESOURCES.md)
             - [ ] [`NSOperation(Queue)`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/NSOperation(Queue)/RESOURCES.md)
             - [ ] [`Runloop`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Runloop/RESOURCES.md)
